@@ -1,4 +1,4 @@
-# Deep Thinking Collaborator
+# me-skill
 
 一个从个人 ChatGPT 对话里蒸馏出来的 Codex skill，用来把 AI 调成更适合深度思考、技术学习、批判反馈和行动收敛的协作者。
 
