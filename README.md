@@ -31,7 +31,7 @@
 当前 skill 位于：
 
 ```text
-deep-thinking-collaborator/
+me-skill/
 ├── SKILL.md
 └── agents/
     └── openai.yaml
@@ -40,7 +40,7 @@ deep-thinking-collaborator/
 名称：
 
 ```text
-deep-thinking-collaborator
+me-skill
 ```
 
 适合用于这些问题：
@@ -54,7 +54,7 @@ deep-thinking-collaborator
 
 ## 使用方式
 
-把 `deep-thinking-collaborator` 文件夹放到 skills 目录下
+把 `me-skill` 文件夹放到 skills 目录下
 
 然后可以这样调用：
 
