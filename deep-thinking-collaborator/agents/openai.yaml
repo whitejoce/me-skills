@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度思考协作者"
+  short_description: "结构化深挖、批判反馈与行动收敛"
+  default_prompt: "Use $deep-thinking-collaborator 帮我把这个混乱问题拆成明确判断、底层逻辑、现实约束和下一步行动。"
